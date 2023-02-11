@@ -21,8 +21,13 @@ sites:
     url: https://godaddy.com
   - name: Namecheap
     url: https://namecheap.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Vimeo
+    url: https://vimeo.com
+  - name: YouTube
+    url: https://youtube.com
+    
+  #- name: Test Broken Site
+    #url: https://thissitedoesnotexist.koj.co
 
 
 status-website:
