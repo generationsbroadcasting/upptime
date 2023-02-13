@@ -18,7 +18,7 @@ sites:
   - name: Linode
     url: https://linode.com
   - name: GoDaddy
-    url: https://godaddy.com
+    url: http://godaddy.com
   - name: Namecheap
     url: https://namecheap.com
   - name: Vimeo
