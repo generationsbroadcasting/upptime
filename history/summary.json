@@ -24,9 +24,9 @@
     "url": "https://gbcstories.com",
     "icon": "https://icons.duckduckgo.com/ip3/gbcstories.com.ico",
     "slug": "gbc-stories",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.66%",
     "uptimeYear": "99.66%",
@@ -36,6 +36,7 @@
     "timeMonth": 443,
     "timeYear": 443,
     "dailyMinutesDown": {
+      "2023-03-03": 0,
       "2023-02-23": 94
     }
   },
@@ -44,9 +45,9 @@
     "url": "https://canvas.gbcstories.com",
     "icon": "https://icons.duckduckgo.com/ip3/canvas.gbcstories.com.ico",
     "slug": "canvas",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.66%",
     "uptimeYear": "99.66%",
@@ -56,6 +57,7 @@
     "timeMonth": 391,
     "timeYear": 391,
     "dailyMinutesDown": {
+      "2023-03-03": 0,
       "2023-02-23": 93
     }
   },
