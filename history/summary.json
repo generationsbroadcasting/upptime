@@ -70,19 +70,19 @@
     "url": "https://gbctv.net/wp-admin",
     "icon": "https://icons.duckduckgo.com/ip3/gbctv.net.ico",
     "slug": "gbctv",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2177,
-    "timeDay": 1721,
-    "timeWeek": 2346,
-    "timeMonth": 2652,
-    "timeYear": 2177,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.29%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 2194,
+    "timeDay": 2065,
+    "timeWeek": 2445,
+    "timeMonth": 2674,
+    "timeYear": 2194,
     "dailyMinutesDown": {
-      "2023-04-18": 0
+      "2023-04-18": 10
     }
   },
   {
