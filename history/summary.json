@@ -166,19 +166,19 @@
     "url": "https://namecheap.com",
     "icon": "https://icons.duckduckgo.com/ip3/namecheap.com.ico",
     "slug": "namecheap",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 601,
-    "timeDay": 969,
-    "timeWeek": 643,
-    "timeMonth": 606,
-    "timeYear": 601,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 607,
+    "timeDay": 1015,
+    "timeWeek": 695,
+    "timeMonth": 620,
+    "timeYear": 607,
     "dailyMinutesDown": {
-      "2023-04-29": 0
+      "2023-04-29": 9
     }
   },
   {
